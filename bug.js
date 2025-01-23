@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the Android emulator wouldn't start after running `expo start`. The terminal showed no errors, but the emulator remained unresponsive. This happened inconsistently, sometimes working on the first attempt and failing on subsequent ones.
